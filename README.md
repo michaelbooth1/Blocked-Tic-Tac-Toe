@@ -1,0 +1,1 @@
+This was a second year assignment to create an AI to play tic tac toe on a blocked board.
